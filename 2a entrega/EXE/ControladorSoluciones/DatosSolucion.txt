@@ -1,0 +1,2 @@
+Solucion id3;2.5;3.8;1 3
+Solucion id4;2.6;3.7;3 4

@@ -1,0 +1,20 @@
+javac *.java
+java DriverHierholzer < DriverHierholzer.in
+
+
+Formato de los grafos
+
+[número de vértices] [número de aristas] [vértice] [vértice] [peso]  (vértices de 0 a nVertices-1)
+
+[vértice] [vértice] [peso] se debe repetir las mismas veces que el numero de aristas.
+
+Ejemplo:
+6 11 0 1 2.1 0 2 2.2 0 3 2.3 0 5 2.4 1 2 2.5 1 3 2.6 1 4 2.7 2 3 2.8 2 5 2.9 3 5 2.1 4 5 2.2
+
+############################################################################################
+
+1) Ejemplo de entrada para obtenerCicloEuleriano:
+1 6 11 0 1 2.1 0 2 2.2 0 3 2.3 0 5 2.4 1 2 2.5 1 3 2.6 1 4 2.7 2 3 2.8 2 5 2.9 3 5 2.1 4 5 2.2
+
+2) Como salir del driver:
+0

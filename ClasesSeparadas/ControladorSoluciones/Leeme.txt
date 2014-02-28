@@ -1,0 +1,7 @@
+Como compilar:
+javac *.java
+
+Como ejecutar:
+java DriverControladorSoluciones < DriverControladorSoluciones.in
+
+Los ejemplos de entrada los puedes ver en el IN del driver, o en el codigo del Driver.
